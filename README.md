@@ -104,5 +104,15 @@ And with the accessibility and SEO improvements, the UI is friendly for both use
 
 ---
 
+## 🤔 Assumptions
+
+- **Active Card Heading Color:**  
+  I've styled the heading (title) of the active card in the violet color (`#5c33cf`), as it helps visually highlight the selected feature and matches the design intent.
+
+- **Card Font Size:**  
+  I set the card title font size to `16px` by default, based on the requirements doc which mentioned this as the expected size for mobile/normal weight. If a different size is needed for desktop, it can be easily adjusted.
+
+---
+
 If you have any questions or want to see a different approach, let me know!  
 Thanks for reviewing my assignment 🙏
